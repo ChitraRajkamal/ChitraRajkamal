@@ -1,3 +1,4 @@
 ## 👋 This is Chitra
-I’m an Entry Level MERN Stack Developer
+
+🌱 I’m an Entry Level MERN Stack Developer
 
